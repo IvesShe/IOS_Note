@@ -63,6 +63,3 @@ app icon
 
 ![image](./images/Xnip2022-04-02_14-20-55.jpg)
 
-# 影片展示
-
-https://youtu.be/OpfdAnE0Lq4
