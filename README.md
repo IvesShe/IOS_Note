@@ -63,3 +63,68 @@ app icon
 
 ![image](./images/Xnip2022-04-02_14-20-55.jpg)
 
+# 常用UI元件
+
+## Stack View
+
+![image](./images/Xnip2022-04-03_16-27-29.jpg)
+
+## UI元件連結與事件處理
+
+![image](./images/Xnip2022-04-03_16-31-44.jpg)
+
+## 虛擬鍵盤事件處理
+
+![image](./images/Xnip2022-04-03_16-37-04.jpg)
+
+## UI元件顯示與隱藏
+
+![image](./images/Xnip2022-04-03_16-38-58.jpg)
+
+## 螢幕淺色與深色模式
+
+![image](./images/Xnip2022-04-03_16-40-36.jpg)
+
+## Image View呈現圖片
+
+![image](./images/Xnip2022-04-03_10-53-35.jpg)
+
+## Image View載入圖片
+
+![image](./images/Xnip2022-04-03_11-06-32.jpg)
+
+## Scroll View
+
+![image](./images/Xnip2022-04-03_11-50-37.jpg)
+
+## 程式建立Scroll View
+
+![image](./images/Xnip2022-04-03_11-56-48.jpg)
+
+## Slider
+
+![image](./images/Xnip2022-04-03_12-04-23.jpg)
+
+## Switch
+
+內建並沒有像網頁checkbox、radiobox的UI
+
+![image](./images/Xnip2022-04-03_12-10-46.jpg)
+
+## Segmented Control區段選項
+
+![image](./images/Xnip2022-04-03_12-17-28.jpg)
+
+## Date Picker
+
+![image](./images/Xnip2022-04-03_12-30-30.jpg)
+
+## Picker View
+
+![image](./images/Xnip2022-04-03_14-17-14.jpg)
+
+## WebView
+
+![image](./images/Xnip2022-04-03_14-45-30.jpg)
+
+
